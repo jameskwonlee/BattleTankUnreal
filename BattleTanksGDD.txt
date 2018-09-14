@@ -1,0 +1,14 @@
+GDD
+
+9.14.18
+Battle Tanks - Unreal
+
+Purpose: To explore different landscapes and have fun in a fastpace competitive game.
+
+Assets:
+-Tank, created natively with Unreal Engine 4's assets.
+
+-Landscape tools
+
+-AI Tank
+
