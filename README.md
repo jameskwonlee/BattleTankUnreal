@@ -11,8 +11,7 @@ Design of User Experience and Timer:
 
 User's Controls and Experience:
 
-Update 9.14.18
--File created locally
+
 
 
 
