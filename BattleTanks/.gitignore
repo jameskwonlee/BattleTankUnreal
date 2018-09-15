@@ -75,3 +75,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Starter content
+BattleTanks/Content/StarterContent/*
+BattleTanks/Content/StarterContent/HDRI/*
